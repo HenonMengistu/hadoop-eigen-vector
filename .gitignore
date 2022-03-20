@@ -1,0 +1,6 @@
+*.txt
+target
+*.class
+*.jar
+.DS_Store
+outputs
